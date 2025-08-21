@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "key": {
+    "x": {
+      "item": "creatures-from-the-realms:snow_giraffe_fur"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "creatures-from-the-realms:snow_giraffe_fur_block"
+  }
+}
