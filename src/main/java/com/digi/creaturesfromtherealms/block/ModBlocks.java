@@ -15,7 +15,7 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
     public static final Block SNOW_GIRAFFE_FUR_BLOCK = registerBlock("snow_giraffe_fur_block",
             new Block(AbstractBlock.Settings.create().strength(0.8f)
-                    .requiresTool().sounds(BlockSoundGroup.WOOL)));
+                    .sounds(BlockSoundGroup.WOOL)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
