@@ -1,5 +1,7 @@
 {
   "item.creatures-from-the-realms.snow_giraffe_fur": "Snow Giraffe Fur",
 
-  "block.creatures-from-the-realms.snow_giraffe_fur_block": "Snow Giraffe Fur Block"
+  "block.creatures-from-the-realms.snow_giraffe_fur_block": "Snow Giraffe Fur Block",
+
+  "itemgroup.creatures-from-the-realms.snow_group": "Snow"
 }

@@ -1,6 +1,7 @@
 package com.digi.creaturesfromtherealms;
 
 import com.digi.creaturesfromtherealms.block.ModBlocks;
+import com.digi.creaturesfromtherealms.item.ModItemGroups;
 import com.digi.creaturesfromtherealms.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,7 @@ public class CreaturesFromTheRealms implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+        ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
 	}
