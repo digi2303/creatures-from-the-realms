@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "creatures-from-the-realms:item/snow_giraffe_fur"
+  }
+}
