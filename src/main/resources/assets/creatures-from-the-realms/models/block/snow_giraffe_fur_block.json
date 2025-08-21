@@ -1,0 +1,6 @@
+{
+  "parent":  "minecraft:block/cube_all",
+  "textures": {
+    "all": "creatures-from-the-realms:block/snow_giraffe_fur_block"
+  }
+}
