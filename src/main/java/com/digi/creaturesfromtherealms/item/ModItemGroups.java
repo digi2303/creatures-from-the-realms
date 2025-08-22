@@ -18,6 +18,7 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.SNOW_GIRAFFE_FUR);
                         entries.add(ModBlocks.SNOW_GIRAFFE_FUR_BLOCK);
+                        entries.add(ModItems.CHOCOLATE);
                     }).build());
 
 
